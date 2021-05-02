@@ -25,11 +25,8 @@ This system is a membership verification that verify by using a barcode. Only ba
 
 ## Website Manual Guide
 
-<object data="http://www.qlicknpay.com/mrf_guide.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://www.qlicknpay.com/mrf_guide.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://www.qlicknpay.com/mrf_guide.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+Please view our documentation.pdf file for more info. 
 
+Please send me an email to shahrul95.dev@gmail.com if you have any questions. Thanks and happy coding!
 
 
