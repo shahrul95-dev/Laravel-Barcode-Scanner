@@ -25,7 +25,7 @@ This system is a membership verification that verify by using a barcode. Only ba
 
 ## Website Manual Guide
 
-Please view our documentation.pdf file for more info and guide on how to use this web system. 
+Please view our <code>documentation.pdf</code> (https://github.com/shahrul95-dev/Laravel-Barcode-Scanner/blob/main/documentation.pdf) file for more info and guide on how to use this web system. 
 
 Please send me an email to shahrul95.dev@gmail.com if you have any questions. Thanks and happy coding!
 
